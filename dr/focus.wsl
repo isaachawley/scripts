@@ -1,0 +1,5 @@
+start:
+put focus my rune
+waitfor roundtime
+pause 1
+goto start

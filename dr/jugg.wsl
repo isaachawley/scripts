@@ -1,0 +1,5 @@
+start:
+put juggle my eggs
+waitfor roundtime
+pause 1
+goto start

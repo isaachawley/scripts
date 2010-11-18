@@ -1,0 +1,9 @@
+put feint
+waitfor roundtime
+put draw
+waitfor roundtime
+put thrust
+waitfor roundtime
+put jab
+waitfor roundtime
+put parry
