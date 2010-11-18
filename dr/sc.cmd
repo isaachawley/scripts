@@ -1,0 +1,1 @@
+put stance set 100 40 40 100
