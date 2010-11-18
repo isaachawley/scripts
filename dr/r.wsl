@@ -1,0 +1,6 @@
+start:
+put throw
+waitfor roundtime
+pause 1
+put take rock
+goto start

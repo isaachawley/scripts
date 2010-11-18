@@ -1,0 +1,16 @@
+put feint
+waitfor roundtime
+pause 1
+put draw
+waitfor roundtime
+pause 1
+put sweep
+waitfor roundtime
+pause 1
+put slice
+waitfor roundtime
+pause 1
+put chop
+waitfor roundtime
+pause 1
+put parry

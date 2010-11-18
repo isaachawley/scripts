@@ -1,0 +1,24 @@
+prep:
+put prep fst 8
+targ:
+put targ
+match face You are not engaged to anything, so you must specify a target to focus on!
+match cast The formation of the target pattern around
+matchwait
+
+cast:
+put cast
+waitfor roundtime
+pause 1
+put hunt
+waitfor roundtime
+pause 1
+put perc
+waitfor roundtime
+pause 1
+match prep You feel fully attuned to the mana streams again.
+matchwait
+
+face:
+put face next
+goto targ
