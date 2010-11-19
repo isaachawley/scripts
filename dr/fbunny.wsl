@@ -1,0 +1,6 @@
+start:
+put forage dust bunny
+waitfor roundtime
+pause 1
+put put my bunny in bucket
+goto start
