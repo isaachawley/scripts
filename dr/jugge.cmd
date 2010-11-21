@@ -3,8 +3,10 @@
 start:
 put juggle my eggs 
 waitfor roundtime
+pause 1
 put juggle my eggs
 waitfor roundtime
+pause 1
 
 put exp skill perception
 
@@ -19,8 +21,8 @@ put hide
 waiting:
 pause 60
 put exp skill perception
+match go perusing
 match waiting time development
-match go thoughtful
 matchwait
 
 go:

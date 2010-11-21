@@ -1,4 +1,4 @@
-#TRAVEL SCRIPT 3/28/09
+#TRAVEL SCRIPT 8/19/07
  ; -- This script was created by Kraelyst the Hand
  ; -- Most current version of this script available at
  ; -- http://www.lurksponge.com/travel
@@ -126,7 +126,6 @@ goto croc-dir
 tohib1:
 pause
 move go raven gate
-
 move w
 move w
 move w
@@ -530,7 +529,7 @@ match dir-car [Dirge, Outside Gate]
 match car-cro [North Roads Caravansary]
 match sto-art You travel through a small
 match art-cro small, white-washed sign staked along
-match cro-let facade of the First Provincial Bank
+match leth-exp2 facade of the First Provincial Bank
 match fer-let Segoltha South Bank]
 match let-gon Sana'ati Dyaus Drui'tas]
 match north-platform Like an aerie forgotten in the wilderness
@@ -540,7 +539,7 @@ match finish [Fayrin's Rest, Anloraten Crossing]
 match ste-fay [Steelclaw Clan, Entrance]
 match sha-ste Wyvern Mountain towers far into the sky
 match hor-sha [Zaldi Taipa, Cedar Path]
-match tig-cro The Pig's Pannage,
+match leth-exp1 The Pig's Pannage,
 match ila-let hard to see the road beyond the
 match ain-forf Ghazal, East Pier]
 match forf-rav The Dwarven road, smoothly cobbled,
@@ -581,7 +580,7 @@ match dir-car [Dirge, Outside Gate]
 match car-cro [North Roads Caravansary]
 match sto-art You travel through a small
 match art-cro small, white-washed sign staked along
-match cro-let facade of the First Provincial Bank
+match leth-exp2 facade of the First Provincial Bank
 match fer-let Segoltha South Bank]
 match let-gon Sana'ati Dyaus Drui'tas]
 match north-platform Like an aerie forgotten in the wilderness
@@ -591,7 +590,7 @@ match fay-ste [Fayrin's Rest, Anloraten Crossing]
 match finish [Steelclaw Clan, Entrance]
 match sha-ste Wyvern Mountain towers far into the sky
 match hor-sha [Zaldi Taipa, Cedar Path]
-match tig-cro The Pig's Pannage,
+match leth-exp1 The Pig's Pannage,
 match ila-let hard to see the road beyond the
 match ain-forf Ghazal, East Pier]
 match forf-rav The Dwarven road, smoothly cobbled,
@@ -619,7 +618,7 @@ match dir-car [Dirge, Outside Gate]
 match car-cro [North Roads Caravansary]
 match sto-art You travel through a small
 match art-cro small, white-washed sign staked along
-match cro-let facade of the First Provincial Bank
+match leth-exp2 facade of the First Provincial Bank
 match fer-let Segoltha South Bank]
 match let-gon Sana'ati Dyaus Drui'tas]
 match north-platform Like an aerie forgotten in the wilderness
@@ -629,7 +628,7 @@ match fay-ste [Fayrin's Rest, Anloraten Crossing]
 match ste-sha [Steelclaw Clan, Entrance]
 match shard-directions Wyvern Mountain towers far into the sky
 match hor-sha [Zaldi Taipa, Cedar Path]
-match tig-cro The Pig's Pannage,
+match leth-exp1 The Pig's Pannage,
 match ila-let hard to see the road beyond the
 match ain-forf Ghazal, East Pier]
 match forf-rav The Dwarven road, smoothly cobbled,
@@ -670,7 +669,7 @@ match dir-car [Dirge, Outside Gate]
 match car-cro [North Roads Caravansary]
 match sto-art You travel through a small
 match art-cro small, white-washed sign staked along
-match cro-let facade of the First Provincial Bank
+match leth-exp2 facade of the First Provincial Bank
 match fer-let Segoltha South Bank]
 match let-gon Sana'ati Dyaus Drui'tas]
 match north-platform Like an aerie forgotten in the wilderness
@@ -680,7 +679,7 @@ match fay-ste [Fayrin's Rest, Anloraten Crossing]
 match ste-sha [Steelclaw Clan, Entrance]
 match sha-hor Wyvern Mountain towers far into the sky
 match finish [Zaldi Taipa, Cedar Path]
-match tig-cro The Pig's Pannage,
+match leth-exp1 The Pig's Pannage,
 match ila-let hard to see the road beyond the
 match ain-forf Ghazal, East Pier]
 match forf-rav The Dwarven road, smoothly cobbled,
@@ -710,10 +709,10 @@ match dir-car [Dirge, Outside Gate]
 match car-cro [North Roads Caravansary]
 match sto-art You travel through a small
 match art-cro small, white-washed sign staked along
-match cro-let facade of the First Provincial Bank
+match leth-exp2 facade of the First Provincial Bank
 match fer-let Segoltha South Bank]
 match let-gon Sana'ati Dyaus Drui'tas]
-match tig-cro The Pig's Pannage,
+match leth-exp1 The Pig's Pannage,
 match finish Like an aerie forgotten in the wilderness
 match finish [Gondola, Cab
 match finish The greying wooden boards of the platform
@@ -753,10 +752,10 @@ match dir-car [Dirge, Outside Gate]
 match car-cro [North Roads Caravansary]
 match sto-art You travel through a small
 match art-cro small, white-washed sign staked along
-match cro-let facade of the First Provincial Bank
+match leth-exp2 facade of the First Provincial Bank
 match fer-let Segoltha South Bank]
 match gon-let Like an aerie forgotten in the wilderness
-match tig-cro The Pig's Pannage,
+match leth-exp1 The Pig's Pannage,
 match finish Sana'ati Dyaus Drui'tas]
 match on-gondola [Gondola, Cab
 match south-platform The greying wooden boards of the platform
@@ -796,10 +795,10 @@ match dir-car [Dirge, Outside Gate]
 match car-cro [North Roads Caravansary]
 match sto-art You travel through a small
 match art-cro small, white-washed sign staked along
-match cro-let facade of the First Provincial Bank
+match leth-exp2 facade of the First Provincial Bank
 match fer-let Segoltha South Bank]
 match gon-let Like an aerie forgotten in the wilderness
-match tig-cro The Pig's Pannage,
+match leth-exp1 The Pig's Pannage,
 match let-ace Sana'ati Dyaus Drui'tas]
 match finish [Acenamacra Pier]
 match on-gondola [Gondola, Cab
@@ -848,10 +847,10 @@ match dir-car [Dirge, Outside Gate]
 match car-cro [North Roads Caravansary]
 match sto-art You travel through a small
 match art-cro small, white-washed sign staked along
-match cro-let facade of the First Provincial Bank
+match leth-exp2 facade of the First Provincial Bank
 match finish Segoltha South Bank]
 match gon-let Like an aerie forgotten in the wilderness
-match tig-cro The Pig's Pannage,
+match leth-exp1 The Pig's Pannage,
 match let-alf Sana'ati Dyaus Drui'tas]
 match on-gondola [Gondola, Cab
 match south-platform The greying wooden boards of the platform
@@ -1748,7 +1747,6 @@ ilay:
 ilaya:
 ilayat:
 ilayata:
-
 ilayatai:
 ilayataip:
 ilayataipa:
@@ -1788,7 +1786,7 @@ match dir-car [Dirge, Outside Gate]
 match car-cro [North Roads Caravansary]
 match sto-art You travel through a small
 match art-cro small, white-washed sign staked along
-match cro-let facade of the First Provincial Bank
+match leth-exp2 facade of the First Provincial Bank
 match fer-let Segoltha South Bank]
 match gon-let Like an aerie forgotten in the wilderness
 match tig-cro The Pig's Pannage,
@@ -1870,7 +1868,7 @@ match fay-ste [Fayrin's Rest, Anloraten Crossing]
 match ste-sha [Steelclaw Clan, Entrance]
 match sha-rav Wyvern Mountain towers far into the sky
 match hor-rav [Zaldi Taipa, Cedar Path]
-match tig-cro The Pig's Pannage,
+match leth-exp1 The Pig's Pannage,
 match ila-ain hard to see the road beyond the
 match finish Ghazal, East Pier]
 match forf-ain The Dwarven road, smoothly cobbled,
@@ -1956,7 +1954,7 @@ match fay-ste [Fayrin's Rest, Anloraten Crossing]
 match ste-sha [Steelclaw Clan, Entrance]
 match sha-rav Wyvern Mountain towers far into the sky
 match hor-rav [Zaldi Taipa, Cedar Path]
-match tig-cro The Pig's Pannage,
+match leth-exp1 The Pig's Pannage,
 match ila-ain hard to see the road beyond the
 match ain-forf Ghazal, East Pier]
 match forf-hib The Dwarven road, smoothly cobbled,
@@ -1998,7 +1996,7 @@ match fay-ste [Fayrin's Rest, Anloraten Crossing]
 match ste-sha [Steelclaw Clan, Entrance]
 match sha-rav Wyvern Mountain towers far into the sky
 match hor-rav [Zaldi Taipa, Cedar Path]
-match tig-cro The Pig's Pannage,
+match leth-exp1 The Pig's Pannage,
 match ila-ain hard to see the road beyond the
 match ain-forf Ghazal, East Pier]
 match forf-hib The Dwarven road, smoothly cobbled,
@@ -2040,7 +2038,7 @@ match dir-car [Dirge, Outside Gate]
 match car-cro [North Roads Caravansary]
 match sto-art You travel through a small
 match art-cro small, white-washed sign staked along
-match cro-let facade of the First Provincial Bank
+match leth-exp2 facade of the First Provincial Bank
 match fer-let Segoltha South Bank]
 match let-gon Sana'ati Dyaus Drui'tas]
 match north-platform Like an aerie forgotten in the wilderness
@@ -2050,7 +2048,7 @@ match fay-ste [Fayrin's Rest, Anloraten Crossing]
 match ste-sha [Steelclaw Clan, Entrance]
 match sha-rav Wyvern Mountain towers far into the sky
 match hor-rav [Zaldi Taipa, Cedar Path]
-match tig-cro The Pig's Pannage,
+match leth-exp1 The Pig's Pannage,
 match ila-ain hard to see the road beyond the
 match ain-forf Ghazal, East Pier]
 match forf-rav The Dwarven road, smoothly cobbled,
@@ -2378,9 +2376,9 @@ matchwait
 
 BURDENCHECK5:
 pause
-match SWIMCHECK5A Encumbrance : None
-match SWIMCHECK5A Encumbrance : Light
-match SWIMCHECK5B Encumbrance : Somewhat
+match SWIMCHECK5A Encumbrance : none
+match SWIMCHECK5A Encumbrance : light
+match SWIMCHECK5B Encumbrance : somewhat
 match SWIMCHECK5C Encumbrance : Burdened
 match SWIMCHECK5D Encumbrance : Heavy
 match SWIMCHECK5E Encumbrance : Very Heavy
@@ -2388,7 +2386,7 @@ match SWIMCHECK5F Overburdened
 match SWIMCHECK5G Encumbrance : Tottering
 match SWIMCHECK5H even able to move?
 match SWIMCHECK5I amazing you aren't squashed!
-put encumbrance
+put info
 matchwait
 
 SWIMCHECK5A:
@@ -2585,7 +2583,7 @@ pause
 move n
 move n
 move n
-goto CROSSINGFERRYNORTH
+goto FERRY-CRO
 
 CROSSINGFERRYNORTH:
 put stand
@@ -2719,9 +2717,63 @@ goto %1
 FERRY-CRO:
 CHECKGUILD10:
 match GROUPCHECK10 Guild: Thief
-match CROSSINGFERRYNORTH Gender:
+match cro-exp1 Gender:
 put info
 matchwait
+
+cro-exp1:
+match seg-cro Swimming:
+match CROSSINGFERRYNORTH EXP HELP
+put exp survival 300
+matchwait
+
+seg-cro:
+move s
+move go foot
+move w
+move w
+move w
+move w
+move w
+move n
+move n
+
+seg-north:
+match seg-north You wade
+match roomcheck You can't swim in that direction.
+match seg-north You swim
+match seg-north You slap
+match seg-north You struggle
+match seg-north You flounder
+match seg-north make much headway
+match seg-north ...wait
+match seg-north type ahead
+put swim north 
+matchwait
+
+roomcheck:
+match seg-north-current Obvious paths: east, west
+match seg-north-end Obvious paths: east, southeast, south, southwest, west.
+put look
+matchwait
+
+seg-north-current:
+put swim west
+waitfor Roundtime
+goto seg-north
+
+seg-north-end:
+move climb bank
+move nw
+move go grass
+move ne
+move n
+move ne
+move n
+move nw
+move n
+goto %1
+
 
 GROUPCHECK10:
 pause
@@ -2734,7 +2786,7 @@ matchwait
 BURDENCHECK10:
 pause
 match SWIMCHECK10A Encumbrance : None
-match SWIMCHECK10B Encumbrance : Light
+match SWIMCHECK10B Encumbrance : light
 match SWIMCHECK10C Encumbrance : Somewhat
 match SWIMCHECK10D Encumbrance : Burdened
 match SWIMCHECK10E Encumbrance : Heavy
@@ -2743,7 +2795,7 @@ match SWIMCHECK10F Overburdened
 match SWIMCHECK10G Encumbrance : Tottering
 match SWIMCHECK10H even able to move?
 match SWIMCHECK10I amazing you aren't squashed!
-put encumbrance
+put info
 matchwait
 
 SWIMCHECK10A:
@@ -2842,7 +2894,6 @@ ECHO
 MPN:
 pause
 put n
-match MPN1 You splash north
 match MPN1 You wade north
 match MPN You slap
 match MPN You struggle
@@ -2855,7 +2906,6 @@ matchwait
 MPN1:
 pause
 put ne
-match MPN2 You splash northeast
 match MPN2 You swim northeast
 match MPN1 You slap
 match MPN1 You struggle
@@ -2868,7 +2918,6 @@ matchwait
 MPN2:
 pause
 put ne
-match MPN3 You splash northeast
 match MPN3 You swim northeast
 match MPN2 You slap
 match MPN2 You struggle
@@ -2881,7 +2930,6 @@ matchwait
 MPN3:
 pause
 put n
-match MPN4 You splash north
 match MPN4 You swim north
 match MPN3 You slap
 match MPN3 You struggle
@@ -2894,7 +2942,6 @@ matchwait
 MPN4:
 pause
 put up
-match MPN5 You splash up
 match MPN5 You swim up
 match MPN4 You slap
 match MPN4 You struggle
@@ -2907,7 +2954,6 @@ matchwait
 MPN5:
 pause
 put ne
-match MPN6 You splash northeast
 match MPN6 You swim northeast
 match MPN5 You slap
 match MPN5 You struggle
@@ -2920,7 +2966,6 @@ matchwait
 MPN6:
 pause
 put ne
-match MPN7 You splash northeast
 match MPN7 You wade northeast
 match MPN6 You slap
 match MPN6 You struggle
@@ -2979,8 +3024,8 @@ GOTO %1
 
 GETCROSSINGDOKORA:
 pause
-match CRO-LET I don't know who you are referring to.
-match CRO-LET But no one can see you.
+match leth-exp2 I don't know who you are referring to.
+match leth-exp2 But no one can see you.
 match GETCROSSING2 But you don't have that much!
 match GETCROSSING2 You consider the offer and then realize
 put tip zzzzzz 180 dokora
@@ -2998,7 +3043,7 @@ put exchange 3 silver kronar to dokora
 pause
 move out
 move out
-goto CRO-LET
+goto leth-exp2
 
 GETCROSSINGMONEYNORTH:
 pause
@@ -3435,7 +3480,7 @@ match BURDENCHECK3F Overburdened
 match BURDENCHECK3G Encumbrance : Tottering
 match BURDENCHECK3H even able to move?
 match BURDENCHECK3I amazing you aren't squashed!
-put encumbrance
+put info
 matchwait
 
 CANTSWIM3:
@@ -3979,7 +4024,7 @@ match BURDENCHECK11F Overburdened
 match BURDENCHECK11G Encumbrance : Tottering
 match BURDENCHECK11H even able to move?
 match BURDENCHECK11I amazing you aren't squashed!
-put encumbrance
+put info
 matchwait
 
 BURDENCHECK11A:
@@ -4509,8 +4554,8 @@ match PERCEPTIONCHECK01B head
 match PERCEPTIONCHECK01A Encumbrance :
 match HEALTHCHECK01 ...wait
 match HEALTHCHECK01 type ahead
-put health
-put enc
+#put health
+put info
 matchwait
 
 PERCEPTIONCHECK01A:
@@ -4554,7 +4599,7 @@ match BURDENCHECK01H even able to move?
 match BURDENCHECK01I amazing you aren't squashed!
 match pause ...wait
 match pause type ahead
-put encumbrance
+put info
 matchwait
 
 BURDENCHECK01A:
@@ -5204,7 +5249,6 @@ ECHO
 ECHO *** You don't have a free hand so your passport is on the desk.  Get your passport and type GLANCE to continue
 ECHO
 pause
-
 goto GROUPPASSPORT1
 
 GROUPPASSPORT1:
@@ -5808,6 +5852,7 @@ move sw
 move s
 move sw
 move se
+
 move s
 move se
 move s
@@ -5982,8 +6027,8 @@ match PERCEPTIONCHECK7B head
 match PERCEPTIONCHECK7A Encumbrance :
 match HEALTHCHECK7 ...wait
 match HEALTHCHECK7 type ahead
-put health
-put enc
+#put health
+put info
 matchwait
 
 PERCEPTIONCHECK7A:
@@ -6192,8 +6237,8 @@ match PERCEPTIONCheckElbain7B head
 match PERCEPTIONCheckElbain7A Encumbrance :
 match HEALTHCheckElbain7 ...wait
 match HEALTHCheckElbain7 type ahead
-put health
-put enc
+#put health
+put info
 matchwait
 
 PERCEPTIONCheckElbain7A:
@@ -6316,8 +6361,8 @@ match PERCEPTIONCheckLang7B head
 match PERCEPTIONCheckLang7A Encumbrance :
 match HEALTHCheckLang7 ...wait
 match HEALTHCheckLang7 type ahead
-put health
-put enc
+#put health
+put info
 matchwait
 
 PERCEPTIONCheckLang7A:
@@ -6639,8 +6684,8 @@ match PERCEPTIONCHECK8B head
 match PERCEPTIONCHECK8A Encumbrance :
 match HEALTHCHECK8 ...wait
 match HEALTHCHECK8 type ahead
-put health
-put enc
+#put health
+put info
 matchwait
 
 PERCEPTIONCHECK8A:
@@ -6723,17 +6768,21 @@ ECHO * * * Named the "Giant's Pyre" for a boulder formation in the river which r
 ECHO
 pause 
 move w
-pause
+pause 0.5
+pause 0.5
 move sw
-pause
+pause 0.5
+pause 0.5
 move sw
-pause
+pause 0.5
+pause 0.5
 move w
 ECHO
 ECHO
 ECHO * * * Entering territory inhabited by poisonous nightreaver unyns
 ECHO
-pause
+pause 0.5
+pause 0.5
 move go bank
 move sw
 move s
@@ -6828,7 +6877,7 @@ match BURDENCHECK2H even able to move?
 match BURDENCHECK2I amazing you aren't squashed!
 match PAUSE ...wait
 match PAUSE type ahead
-put encumbrance
+put info
 matchwait
 
 BURDENCHECK2A:
@@ -7743,7 +7792,13 @@ ECHO ===================
 ECHO
 GOTO %1
 
-CRO-LET:
+leth-exp2:
+match cro-tig Swimming:
+match cro-let EXP HELP
+put exp survival 300
+matchwait
+
+cro-let:
 CHECKGUILD:
 match GROUPCHECK4 Guild: Thief
 match CRO-FER Gender:
@@ -7760,9 +7815,9 @@ matchwait
 
 BURDENCHECK4:
 save BURDENCHECK4
-match SWIMCHECK4A Encumbrance : None
-match SWIMCHECK4A Encumbrance : Light
-match SWIMCHECK4B Encumbrance : Somewhat
+match SWIMCHECK4A Encumbrance : none
+match SWIMCHECK4A Encumbrance : light
+match SWIMCHECK4B Encumbrance : somewhat
 match SWIMCHECK4C Encumbrance : Burdened
 match SWIMCHECK4D Encumbrance : Heavy
 match SWIMCHECK4E Encumbrance : Very Heavy
@@ -7772,7 +7827,7 @@ match SWIMCHECK4H even able to move?
 match SWIMCHECK4I amazing you aren't squashed!
 match pause ...wait
 match pause type ahead
-put encumbrance
+put info
 matchwait
 
 SWIMCHECK4A:
@@ -8039,7 +8094,6 @@ matchwait
 SMOVE3:
 pause
 put sw
-match SMOVE4 You splash southwest
 match SMOVE4 You wade southwest
 match SMOVE3 You slap
 match SMOVE3 You struggle
@@ -8064,7 +8118,6 @@ matchwait
 SMOVE5:
 pause
 put s
-match SMOVE6 You splash south
 match SMOVE6 You swim south
 match SMOVE5 You slap
 match SMOVE5 You struggle
@@ -8077,7 +8130,6 @@ matchwait
 SMOVE6:
 pause
 put sw
-match SMOVE7 You splash southwest
 match SMOVE7 You swim southwest
 match SMOVE6 You slap
 match SMOVE6 You struggle
@@ -8090,7 +8142,6 @@ matchwait
 SMOVE7:
 pause
 put sw
-match SMOVE8 You splash southwest
 match SMOVE8 You swim southwest
 match SMOVE7 You slap
 match SMOVE7 You struggle
@@ -8103,7 +8154,6 @@ matchwait
 SMOVE8:
 pause
 put s
-match SMOVE9 You splash south
 match SMOVE9 You swim south
 match SMOVE8 You slap
 match SMOVE8 You struggle
@@ -8116,7 +8166,6 @@ matchwait
 SMOVE9:
 pause
 put up
-match SMOVE10 You splash up
 match SMOVE10 You wade up
 match SMOVE9 You slap
 match SMOVE9 You struggle
@@ -8335,7 +8384,6 @@ put look gondola
 match GETONSOUTHGONDOLA The gondola stops on the platform
 match WAITFORSOUTHGONDOLA YOU HAVE BEEN IDLE
 match nsundergondola SHORTCUT1
-match nsundergondola shortcut1
 matchwait 
 
 GETONSOUTHGONDOLA:
@@ -8539,7 +8587,7 @@ move sw
 move s
 move se
 move sw
-move go path
+move go trail
 move n
 move ne
 move go door
@@ -8568,7 +8616,7 @@ ECHO
 pause 60
 ECHO
 ECHO ================================
-ECHO *** Ferdahl Alec, son of Corik and father to Kukalakai, built the gondola in 20 A.V. to connect Ilithi to the Mountain Elves.
+ECHO *** Ferdahl Alec, son of Corik and father to Kukalakai, built the gondola to connect Ilithi to the Mountain Elves.
 ECHO *** The Mountain Elves, led by Queen Morganae, were responsible for maintaining the gondola.
 ECHO *** However, one day Morganae's only daughter, Princess Anlorahle, was slaughtered on the gondola by a snow beast sent by Necromancer Sidhlot.
 ECHO *** Since that day the Mountain Elves have abandoned the gondola, yet it still slowly drifts between the platforms, as if pushed by some ghostly hand.
@@ -9248,9 +9296,7 @@ put look gondola
 match GETONNORTHGONDOLA The gondola stops on the platform
 match WAITFORNORTHGONDOLA YOU HAVE BEEN IDLE
 match snundergondola SHORTCUT2
-match snundergondola shortcut2
 match longundergondola SHORTCUT1
-match longundergondola shortcut1
 matchwait 
 
 GETONNORTHGONDOLA:
@@ -9265,7 +9311,7 @@ move go frame
 move go door
 move sw
 move s
-move go path
+move go trail
 move ne
 move nw
 move n
@@ -9573,7 +9619,7 @@ move go frame
 move go door
 move sw
 move s
-move go path
+move go trail
 move ne
 move nw
 move n
@@ -10044,6 +10090,12 @@ ECHO ===================
 ECHO 
 GOTO %1
 
+leth-exp1:
+match tig-leth Swimming:
+match tig-cro EXP HELP
+put exp survival 300
+matchwait
+
 tig-cro:
 ECHO
 ECHO
@@ -10099,6 +10151,56 @@ ECHO * * * A port city, home to all 9 guildhalls and the Asemath Academy
 ECHO ===================
 ECHO
 GOTO %1
+
+tig-leth:
+move s
+move se
+move s
+move sw
+move go green
+move sw
+
+tig-leth2:
+match tig-leth2 You don't find anything of interest here.
+match tig-leth2 You find some interesting signs something is here.
+match tig-leth3 You find a very faint trail through the grass.
+put search
+matchwait
+
+tig-leth3:
+move go trail
+move se
+move climb trail
+
+seg-south1:
+match seg-let You wade
+match current [Segoltha River, North Bank
+match current You can't swim
+match seg-south1 You swim
+match seg-south1 You slap
+match seg-south1 You struggle
+match seg-south1 You flounder
+match seg-south1 make much headway
+match seg-south1 ...wait
+match seg-south1 type ahead
+put swim south 
+matchwait
+
+
+current:
+put swim west
+waitfor Roundtime
+goto seg-south1
+
+seg-let:
+move e
+move e
+move e
+move e
+move e
+move go trail
+move n
+goto %1
 
 THE-ELB:
 ECHO
@@ -11749,7 +11851,7 @@ match BURDENCHECK12H even able to move?
 match BURDENCHECK12I amazing you aren't squashed!
 match BURDENCHECK12 ...wait
 match BURDENCHECK12 type ahead
-put encumbrance
+put info
 matchwait
 
 BURDENCHECK12A:
@@ -12033,7 +12135,7 @@ match BURDENCHECK13H even able to move?
 match BURDENCHECK13I amazing you aren't squashed!
 match BURDENCHECK13 ...wait
 match BURDENCHECK13 type ahead
-put encumbrance
+put info
 matchwait
 
 STRENGTHCHECK13:
@@ -13215,7 +13317,6 @@ match GearGateClosed1 sealed for the night!
 match waitgate3 The gear gate is closed.
 match waitgate3 Wait until the gear gate has opened
 match waitgate3 Open the gear gate!
-match waitgate3 The gear gate is in the process of being closed.
 match %1 [Raven's Point, Gear Gate]
 match raven1NoClimb ...wait
 match raven1NoClimb type ahead
@@ -13255,7 +13356,6 @@ match groupraven1-raven2 sealed for the night!
 match groupraven1-raven2 The gear gate is closed.
 match waitgate1 Wait until the gear gate has opened
 match waitgate1 Open the gear gate!
-match waitgate1 The gear gate is in the process of being closed.
 match %1 [Raven's Point, Gear Gate]
 match checkravengate3 ...wait
 match checkravengate3 type ahead
@@ -13389,7 +13489,6 @@ match goraven1-raven2 sealed for the night!
 match goraven1-raven2 The gear gate is closed.
 match goraven1-raven2 Wait until the gear gate has opened
 match goraven1-raven2 Open the gear gate!
-match goraven1-raven2 The gear gate is in the process of being closed.
 match %1 [Raven's Point, Gear Gate]
 match checkgate1 ...wait
 match checkgate1 type ahead
@@ -13523,7 +13622,6 @@ match GearGateClosed2 sealed for the night!
 match waitgate4 The gear gate is closed.
 match waitgate4 Wait until the gear gate has opened
 match waitgate4 Open the gear gate!
-match waitgate4 The gear gate is in the process of being closed.
 match %1 [Seord Kerwaith, Gear Gate]
 match raven2NoClimb ...wait
 match raven2NoClimb type ahead
@@ -13563,7 +13661,6 @@ match groupraven2-raven1 sealed for the night!
 match groupraven2-raven1 The gear gate is closed.
 match waitgate2 Wait until the gear gate has opened
 match waitgate2 Open the gear gate!
-match waitgate2 The gear gate is in the process of being closed.
 match %1 [Seord Kerwaith, Gear Gate]
 match checkravengate4 ...wait
 match checkravengate4 type ahead
@@ -13697,7 +13794,6 @@ match goraven2-raven1 sealed for the night!
 match goraven2-raven1 The gear gate is closed.
 match goraven2-raven1 Wait until the gear gate has opened
 match goraven2-raven1 Open the gear gate!
-match goraven2-raven1 The gear gate is in the process of being closed.
 match %1 [Seord Kerwaith, Gear Gate]
 match checkgate2 ...wait
 match checkgate2 type ahead
@@ -13840,7 +13936,6 @@ ECHO ==========================================
 ECHO
 EXIT
 
-LABELERROR:
 NODESTINATION:
 ECHO
 ECHO =================================================
@@ -13996,10 +14091,13 @@ goto %s
 FINISH:
 put set Description
 pause
+put #parse YOU HAVE ARRIVED
 ECHO
 ECHO *** YOU HAVE ARRIVED ***
 ECHO
 ECHO Signup to be automatically notified when this script is updated. Go to: 
 ECHO http://groups.yahoo.com/group/TravelScripts/join
 ECHO
+put look
 EXIT
+

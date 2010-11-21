@@ -2,4 +2,35 @@ start:
 put focus my rune
 waitfor roundtime
 pause 1
+put focus my rune
+waitfor roundtime
+pause 1
+put focus my rune
+waitfor roundtime
+pause 1
+put focus my rune
+waitfor roundtime
+pause 1
+put focus my rune
+waitfor roundtime
+pause 1
+
+
+put exp skill arcana
+match start time development
+match hide mind lock
+matchwait
+
+hide:
+put stow
+
+waiting:
+pause 120
+put exp skill arcana
+match go learning
+match waiting time development
+matchwait
+
+go:
+take my rune
 goto start

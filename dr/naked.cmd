@@ -1,14 +1,14 @@
 put rem my helm
 put stow my helm
 pause 1
-put rem my glov
-put stow my glov
+put rem my gau
+put stow my gau
 pause 1
-put rem my jack
-put stow my jack
+put rem my plate
+put stow my plate
 pause 1
 put rem my grea
 put stow my grea
 pause 1
-put rem my aven
-put stow my aven
+put rem my shield
+put stow my shield

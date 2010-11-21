@@ -1,5 +1,5 @@
 prep:
-put prep fst 8
+put prep fst 10 
 targ:
 put targ
 match face You are not engaged to anything, so you must specify a target to focus on!

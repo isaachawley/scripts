@@ -2,5 +2,5 @@ start:
 put throw
 waitfor roundtime
 pause 1
-put take rock
+put take str
 goto start
