@@ -1,1 +1,0 @@
-put -walkto room 7
