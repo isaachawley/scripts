@@ -1,0 +1,11 @@
+prep:
+put prep ease 10 
+match cast You feel fully prepared
+matchwait
+
+cast:
+put cast
+pause 1
+match prep You feel fully attuned to the mana streams again.
+matchwait
+
